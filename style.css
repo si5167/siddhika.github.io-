@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+#center-background {
+    text-align: center;
+}
+
+#background-image {
+    max-width: 100%;
+}
+
+#icons {
+    margin-top: 20px;
+}
+
+#icons a {
+    margin: 10px;
+}
+
+#icons img {
+    width: 32px;
+    height: 32px;
+}
+
+#projects {
+    margin-top: 20px;
+}
+
+#projects a {
+    margin: 10px;
+}
+
+#projects img {
+    width: 150px;
+    height: 100px;
+}
